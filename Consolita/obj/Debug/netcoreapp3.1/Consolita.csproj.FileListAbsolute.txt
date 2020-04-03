@@ -1,0 +1,13 @@
+C:\Users\DMC17\source\repos\Consolita\Consolita\obj\Debug\netcoreapp3.1\Consolita.csprojAssemblyReference.cache
+C:\Users\DMC17\source\repos\Consolita\Consolita\obj\Debug\netcoreapp3.1\Consolita.csproj.CoreCompileInputs.cache
+C:\Users\DMC17\source\repos\Consolita\Consolita\obj\Debug\netcoreapp3.1\Consolita.AssemblyInfoInputs.cache
+C:\Users\DMC17\source\repos\Consolita\Consolita\obj\Debug\netcoreapp3.1\Consolita.AssemblyInfo.cs
+C:\Users\DMC17\source\repos\Consolita\Consolita\bin\Debug\netcoreapp3.1\Consolita.exe
+C:\Users\DMC17\source\repos\Consolita\Consolita\bin\Debug\netcoreapp3.1\Consolita.deps.json
+C:\Users\DMC17\source\repos\Consolita\Consolita\bin\Debug\netcoreapp3.1\Consolita.runtimeconfig.json
+C:\Users\DMC17\source\repos\Consolita\Consolita\bin\Debug\netcoreapp3.1\Consolita.runtimeconfig.dev.json
+C:\Users\DMC17\source\repos\Consolita\Consolita\bin\Debug\netcoreapp3.1\Consolita.dll
+C:\Users\DMC17\source\repos\Consolita\Consolita\bin\Debug\netcoreapp3.1\Consolita.pdb
+C:\Users\DMC17\source\repos\Consolita\Consolita\obj\Debug\netcoreapp3.1\Consolita.dll
+C:\Users\DMC17\source\repos\Consolita\Consolita\obj\Debug\netcoreapp3.1\Consolita.pdb
+C:\Users\DMC17\source\repos\Consolita\Consolita\obj\Debug\netcoreapp3.1\Consolita.genruntimeconfig.cache
