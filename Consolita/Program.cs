@@ -2,29 +2,7 @@
 
 namespace Consolita
 {
-    /*class Program
-    {
-        static void Main(string[] args)
-        {
-            int temperatura = 0;
-            string valor = "";
-
-            //Pedimos la temperatura
-            Console.Write("Dame la temperatura actual: ");
-            valor = Console.ReadLine();
-            temperatura = Convert.ToInt32(valor);
-
-            while(temperatura > 20)
-            {
-                temperatura--;
-                Console.WriteLine("La temperatura es: {0}", temperatura);
-            }
-
-            Console.WriteLine("La temperatura final es {0}", temperatura);
-
-
-        }
-    }*/
+   
 
     class multiplicacion
     {
